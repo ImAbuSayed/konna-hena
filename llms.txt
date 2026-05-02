@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي فيك بتضيع
+> كل ليلة قلبي ليك بيبيع
+> نور عيونك في الظلام بيدوم
+> شوقي ليك بيزيد يوم عن يوم
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
