@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Konna Hena
+
+This log tracks the cryptographic history and versioning for the song **Konna Hena** (konna-hena).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:07:46.625356 | `v1` | `d750b530db4ef96908291a5549e1752a0463f1970a8a732c74b32c6cb31e14c5` | `9cf4540f7b2127028ea6c5cfdbadb169759c1b24bc19ded1ddaec972af30d29f` | `2026-05-09_konna-hena-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
